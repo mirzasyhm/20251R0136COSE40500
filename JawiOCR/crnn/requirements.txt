@@ -1,0 +1,11 @@
+torch==2.5.1
+torchvision==0.20.1
+pillow==11.2.1
+tqdm
+lmdb
+opencv-python-headless
+huggingface-hub
+editdistance
+numpy==1.26.4
+torchaudio==2.5.1
+flashlight-text
