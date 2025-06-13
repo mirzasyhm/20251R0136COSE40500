@@ -1,0 +1,10 @@
+opencv-python==4.9.0.80
+pillow==11.2.1
+PyYAML==6.0.2
+scikit-image==0.22.0
+Shapely==2.1.1
+torch==2.5.1
+torchvision==0.20.1
+wandb==0.19.11
+packaging==23.2
+numpy==1.26.4
